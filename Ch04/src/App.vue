@@ -1,3 +1,8 @@
+<!-- 
+ * 날짜: 2023/04/06
+ * 이름: 이원정
+ * 내용: Ch04. Composition API 실습
+  -->
 <template>
   <h3>Ch04.Composition API 실습</h3>
 

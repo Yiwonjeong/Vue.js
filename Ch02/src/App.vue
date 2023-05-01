@@ -1,3 +1,8 @@
+<!-- 
+ * 날짜: 2023/04/03 이원정
+ * 이름: 이원정
+ * 내용: Ch02.  Directive 실습
+  -->
 <template>
   <h3>Ch02. Directive 실습</h3>
 

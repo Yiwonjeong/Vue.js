@@ -1,3 +1,8 @@
+<!-- 
+ * 날짜: 2023/04/13
+ * 이름: 이원정
+ * 내용: TodoApp
+  -->
 <template>
   <h4>TodoApp</h4>
   <Header v-on:addTodo="addTodoHandler"></Header>
